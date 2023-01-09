@@ -1,0 +1,28 @@
+.first h1{
+    text-align:center;
+   
+}
+.first{
+    margin: auto;
+    width: 320px;
+    height: 50px;
+    background-color: aquamarine;
+}
+
+form{
+    margin: auto;
+    width: 300px;
+    height: auto;  
+    
+    background-color: aqua;
+    padding: 10px;  
+}
+.form-element{
+    margin-bottom: 1rem;
+}
+.btn button{
+    margin-top: 10px;
+    margin-left: 80px;
+    width: 150px;
+
+}
